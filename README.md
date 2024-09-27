@@ -13,7 +13,7 @@
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Role of reports:** Determine effective customer discounts, facilitate consumer negotiations, and identify potential business expansion opportunities in promising countries.
 
 
 ## Finance Report :
@@ -22,7 +22,7 @@
 
     **1.** Create Profit and Loss (P&L) reports by Fiscal Year & Months. 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by Markets.
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
